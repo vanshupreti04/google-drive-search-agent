@@ -93,6 +93,18 @@ DriveMind AI
 
 ---
 
+# 🌐 Live Demo
+
+### 🚀 Frontend (Streamlit App)
+
+[🔗 Open DriveMind AI Frontend](https://drivemind-frontend.onrender.com)
+
+### ⚡ Backend API
+
+[🔗 Open FastAPI Backend](https://drivemind-backend.onrender.com)
+
+---
+
 # 🔍 Supported Searches
 
 The AI agent supports:
